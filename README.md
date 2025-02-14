@@ -10,7 +10,7 @@ This repository contains an **interactive Tableau dashboard** built using the **
 ✅ **User-Friendly Design** – Clean, structured dashboard for seamless data exploration.  
 
 ### 📌 Dashboard Previews  
-📈 **Overall Dashboard:** [View Here](https://github.com/yourusername/superstore-dashboard/blob/main/overall-dashboard.png)  
+📈 **Overall Dashboard:** [View Here](https://github.com/Harshavladimir/Superstore_Dataset_Dashboard-Using-Tableau/blob/main/Screenshot%202025-01-26%20202835.png)  
 🌍 **State-wise Dashboard:** [View Here](https://github.com/yourusername/superstore-dashboard/blob/main/statewise-dashboard.png)  
 
 ## 🔹 Use Cases  
