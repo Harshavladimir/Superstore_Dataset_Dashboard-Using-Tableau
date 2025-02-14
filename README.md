@@ -11,7 +11,7 @@ This repository contains an **interactive Tableau dashboard** built using the **
 
 ### 📌 Dashboard Previews  
 📈 **Overall Dashboard:** [View Here](https://github.com/Harshavladimir/Superstore_Dataset_Dashboard-Using-Tableau/blob/main/Screenshot%202025-01-26%20202835.png)  
-🌍 **Detailed Dashboard:** [View Here](https://github.com/yourusername/superstore-dashboard/blob/main/statewise-dashboard.png)  
+🌍 **Detailed Dashboard:** [View Here](https://github.com/Harshavladimir/Superstore_Dataset_Dashboard-Using-Tableau/blob/main/Detailed%20dashboard)  
 
 ## 🔹 Use Cases  
 - **Performance tracking** for sales and profitability.  
